@@ -1,3 +1,16 @@
 https://developers.google.com/youtube/iframe_api_reference
 
 https://developers.google.com/youtube/v3/getting-started
+
+
+Red box: Contains 3 main elements.
+The first one contains the hamburger menu and youtube icon and logo
+The second one contains only the search box and search button
+The last element contains the YouTube apps navigation and your profile image
+
+Green box: Contains two elements.
+The first one is the video
+The second one is information related to the video
+
+Blue box:
+Contains in essence two elements, the image of the video and the tittle.
